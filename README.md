@@ -11,7 +11,7 @@
 
 ## Mentor : Neela Santosh
 
-Description : Sales Trend for Chanel
+Description :  Real-Time-Dashboard (Weather Dashboard)
 
 <img width="1433" height="807" alt="task3" src="https://github.com/user-attachments/assets/7b01194e-dc95-4829-87e5-8b83cd086f24" />
 
